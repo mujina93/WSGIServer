@@ -179,4 +179,4 @@ and stress-test it with:
 ```
 python client3.py --max-clients 128
 ```
-You can verify that there are no zombies this time, usin `ps`!
+You can verify that there are no zombies this time, using `ps`!
